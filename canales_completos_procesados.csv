@@ -3,30 +3,30 @@ Venevision,https://thundernet.streampool.net/10323/live/hls/venevisionhd/playlis
 Tves,https://thundernet.streampool.net/10323/live/hls/tveshd/playlist.m3u8,m3u8,,1,TV Abierta Venezuela
 ValeTV,https://thundernet.streampool.net/10323/live/hls/valetv/playlist.m3u8,m3u8,,1,TV Abierta Venezuela
 ConcienciaTV,https://thundernet.streampool.net/10323/live/hls/concienciatv/playlist.m3u8,m3u8,,1,TV Abierta Venezuela
-VTV,https://thundernet.streampool.net/10323/live/hls/vtvhd/playlist.m3u8,m3u8,,1,TV Abierta Venezuela
+VTV,https://thundernet.streampool.net/10323/live/hls/vtvhd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/df/03/09c2-4d11-4d39-88ec-9d1d6676d3d5.png,1,TV Abierta Venezuela
 ViveTV,https://thundernet.streampool.net/10323/live/hls/vivetvhd/playlist.m3u8,m3u8,,1,TV Abierta Venezuela
 Colombeia,https://thundernet.streampool.net/10323/live/hls/colombeia/playlist.m3u8,m3u8,,1,TV Abierta Venezuela
-Televen,https://thundernet.streampool.net/10323/live/hls/televenrespaldo/playlist.m3u8,m3u8,,1,TV Abierta Venezuela
+Televen,https://thundernet.streampool.net/10323/live/hls/televenrespaldo/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/b7/3e/807d-a9b4-46a7-85fb-4dc5c6bc495c.png,1,TV Abierta Venezuela
 Globovision,https://thundernet.streampool.net/10323/live/hls/globovisionhd/playlist.m3u8,m3u8,,1,TV Abierta Venezuela
-Telesur,https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8,m3u8,,1,Otros
-Canal I,https://thundernet.streampool.net/10323/live/hls/canalisd/playlist.m3u8,m3u8,,1,Otros
+Telesur,https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/3e/77/5339-7351-4a6a-9030-d73140b0fa6c.png,1,Otros
+Canal I,https://thundernet.streampool.net/10323/live/hls/canalisd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/70/c5/08e3-b7bc-496b-99ef-29e46724375a.png,1,Otros
 VepacoTV,https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8,m3u8,,1,Otros
-Canal Diplomatico,https://thundernet.streampool.net/10323/live/hls/canaldiplomatico/playlist.m3u8,m3u8,,1,Otros
+Canal Diplomatico,https://thundernet.streampool.net/10323/live/hls/canaldiplomatico/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/e4/76/6b57-6e0c-4d72-a1c7-8c019fba2cc2.png,1,Otros
 TvFANB,https://thundernet.streampool.net/10323/live/hls/fanbhd/playlist.m3u8,m3u8,,1,Otros
-ANTV,https://thundernet.streampool.net/10323/live/hls/antvhd/playlist.m3u8,m3u8,,1,TV Abierta Venezuela
+ANTV,https://thundernet.streampool.net/10323/live/hls/antvhd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/40/5f/9eef-d4b6-4dc7-a0d0-38cf6c702403.png,1,TV Abierta Venezuela
 MeridianoTV,https://thundernet.streampool.net/10323/live/hls/meridianohd/playlist.m3u8,m3u8,,1,Documentales
 Tele Tuya,https://thundernet.streampool.net/10323/live/hls/tlthd/playlist.m3u8,m3u8,,1,Otros
-Agrotendencia,https://thundernet.streampool.net/10323/live/hls/agrotendencia/playlist.m3u8,m3u8,,1,Otros
-Discovery Kids,https://thundernet.streampool.net/10323/live/hls/discoverykidshd/playlist.m3u8,m3u8,,1,Infantil
+Agrotendencia,https://thundernet.streampool.net/10323/live/hls/agrotendencia/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/fc/a6/00b7-23e0-4989-9f09-d7c91f2c4d10.png,1,Otros
+Discovery Kids,https://thundernet.streampool.net/10323/live/hls/discoverykidshd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/96/7a/267e-b9f7-40da-9397-2ea318b4a203.png,1,Infantil
 Canal infantil,https://thundernet.streampool.net/10323/live/hls/canalinfantilhd/playlist.m3u8,m3u8,,1,Infantil
 Disney Junior,https://thundernet.streampool.net/10323/live/hls/disneyjunior/playlist.m3u8,m3u8,,1,Infantil
-Cartoon Network,https://thundernet.streampool.net/10323/live/hls/cartoonnetwork/playlist.m3u8,m3u8,,1,Infantil
-Cartoonito,https://thundernet.streampool.net/10323/live/hls/cartoonito/playlist.m3u8,m3u8,,1,Infantil
+Cartoon Network,https://thundernet.streampool.net/10323/live/hls/cartoonnetwork/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/f3/af/1c70-45cb-4dde-84fa-33018e864718.png,1,Infantil
+Cartoonito,https://thundernet.streampool.net/10323/live/hls/cartoonito/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/d5/c7/1b1c-cd61-4ef4-be81-00daa6c2a2c7.png,1,Infantil
 Disney Channel,https://thundernet.streampool.net/10323/live/hls/disney/playlist.m3u8,m3u8,,1,Infantil
 Dreamworks,https://thundernet.streampool.net/10323/live/hls/dreamworks/playlist.m3u8,m3u8,,1,Infantil
-Nick,https://thundernet.streampool.net/10323/live/hls/nick/playlist.m3u8,m3u8,,1,Infantil
+Nick,https://thundernet.streampool.net/10323/live/hls/nick/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/24/51/68c2-0c31-4d59-a00d-e3e96c4ca692.png,1,Infantil
 Nick Junior,https://thundernet.streampool.net/10323/live/hls/nickjrhd/playlist.m3u8,m3u8,,1,Infantil
-Tooncast,https://thundernet.streampool.net/10323/live/hls/tooncast/playlist.m3u8,m3u8,,1,Infantil
+Tooncast,https://thundernet.streampool.net/10323/live/hls/tooncast/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/8f/0f/bcfd-5755-4018-8224-7a0c2002d1a2.png,1,Infantil
 BitMe,https://thundernet.streampool.net/10323/live/hls/bitmehd/playlist.m3u8,m3u8,,1,Otros
 BabyTV,https://thundernet.streampool.net/10323/live/hls/babytv/playlist.m3u8,m3u8,,1,Infantil
 PlimPlim TV,https://thundernet.streampool.net/10323/live/hls/plimplim/playlist.m3u8,m3u8,,1,Infantil
@@ -37,123 +37,123 @@ VenevisionPlus,https://thundernet.streampool.net/10323/live/hls/venevisionplushd
 Telemundo Internacional,https://thundernet.streampool.net/10323/live/hls/telemundo/playlist.m3u8,m3u8,,1,Otros
 Univision,https://thundernet.streampool.net/10323/live/hls/univision/playlist.m3u8,m3u8,,1,Otros
 TvFamilia,https://thundernet.streampool.net/10323/live/hls/tvfamilia/playlist.m3u8,m3u8,,1,Otros
-IVC,https://thundernet.streampool.net/10323/live/hls/ivc/playlist.m3u8,m3u8,,1,Otros
+IVC,https://thundernet.streampool.net/10323/live/hls/ivc/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/5d/bd/9f2d-b130-4737-8c5d-4bb311aaab53.png,1,Otros
 Home&Healt,https://thundernet.streampool.net/10323/live/hls/home&healthhd/playlist.m3u8,m3u8,,1,Otros
-Telenovelas,https://thundernet.streampool.net/10323/live/hls/telenovelas/playlist.m3u8,m3u8,,1,Series y Novelas
+Telenovelas,https://thundernet.streampool.net/10323/live/hls/telenovelas/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/5a/9f/9b2b-3633-4c47-820a-5347b35317f7.png,1,Series y Novelas
 Canal de las estrellas,https://thundernet.streampool.net/10323/live/hls/canaldelasestrellashd/playlist.m3u8,m3u8,,1,Otros
 AztecaCorazon,https://thundernet.streampool.net/10323/live/hls/aztecacorazon/playlist.m3u8,m3u8,,1,Entretenimiento
-Novelisima,https://thundernet.streampool.net/10323/live/hls/novelisima/playlist.m3u8,m3u8,,1,Otros
-Kanal D Drama,https://thundernet.streampool.net/10323/live/hls/kanalddrama/playlist.m3u8,m3u8,,1,Series y Novelas
-Pasiones,https://thundernet.streampool.net/10323/live/hls/pasiones/playlist.m3u8,m3u8,,1,Series y Novelas
-E!,https://thundernet.streampool.net/10323/live/hls/canale/playlist.m3u8,m3u8,,1,Otros
-Hola TV,https://thundernet.streampool.net/10323/live/hls/holatv/playlist.m3u8,m3u8,,1,Otros
-Latin Angel,https://thundernet.streampool.net/10323/live/hls/latinangel/playlist.m3u8,m3u8,,1,Otros
+Novelisima,https://thundernet.streampool.net/10323/live/hls/novelisima/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/dd/ee/6c55-fea3-43d4-8e27-933a51b8e1d9.png,1,Otros
+Kanal D Drama,https://thundernet.streampool.net/10323/live/hls/kanalddrama/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/e8/99/8fc0-6821-49c6-bb4e-c8710ec1b43a.png,1,Series y Novelas
+Pasiones,https://thundernet.streampool.net/10323/live/hls/pasiones/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/55/07/340f-1270-4963-ab82-460c388bdbb8.png,1,Series y Novelas
+E!,https://thundernet.streampool.net/10323/live/hls/canale/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/63/42/fae4-c062-4db3-8cda-b0e3c16495a7.png,1,Otros
+Hola TV,https://thundernet.streampool.net/10323/live/hls/holatv/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/e1/48/382f-890b-4072-bf2a-47347923e982.png,1,Otros
+Latin Angel,https://thundernet.streampool.net/10323/live/hls/latinangel/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/9a/a8/9829-1334-4ef1-b78c-3c8669a58a62.png,1,Otros
 PlousTv,https://thundernet.streampool.net/10323/live/hls/ploustv/playlist.m3u8,m3u8,,1,Otros
 OxigenoTV,https://thundernet.streampool.net/10323/live/hls/oxigenotv/playlist.m3u8,m3u8,,1,Entretenimiento
 Show Bussiness,https://thundernet.streampool.net/10323/live/hls/showbusiness/playlist.m3u8,m3u8,,1,Entretenimiento
 Realtor TV,https://thundernet.streampool.net/10323/live/hls/realtortv/playlist.m3u8,m3u8,,1,Entretenimiento
-Azteca Clic,https://thundernet.streampool.net/10323/live/hls/aztecaclic/playlist.m3u8,m3u8,,1,Entretenimiento
+Azteca Clic,https://thundernet.streampool.net/10323/live/hls/aztecaclic/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/78/d2/2455-2d70-4b39-94e7-521b8c2cd2af.png,1,Entretenimiento
 TLC HD,https://thundernet.streampool.net/10323/live/hls/tlchd/playlist.m3u8,m3u8,,1,Estilo de Vida
 Maschic,https://thundernet.streampool.net/10323/live/hls/maschic/playlist.m3u8,m3u8,,1,Estilo de Vida
-HGTV,https://thundernet.streampool.net/10323/live/hls/hgtvhd/playlist.m3u8,m3u8,,1,Estilo de Vida
+HGTV,https://thundernet.streampool.net/10323/live/hls/hgtvhd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/a4/69/0514-160b-4afd-9d88-9849648a669c.png,1,Estilo de Vida
 LifeTime,https://thundernet.streampool.net/10323/live/hls/lifetime/playlist.m3u8,m3u8,,1,Estilo de Vida
 Food Network,https://thundernet.streampool.net/10323/live/hls/foodnetwork/playlist.m3u8,m3u8,,1,Estilo de Vida
-Gourmet,https://thundernet.streampool.net/10323/live/hls/gourmet/playlist.m3u8,m3u8,,1,Estilo de Vida
+Gourmet,https://thundernet.streampool.net/10323/live/hls/gourmet/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/9c/d6/f00a-f4a3-4f89-a672-e8e9ac25e89d.png,1,Estilo de Vida
 Cocina Familiar,https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12033&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=,m3u8,,1,Estilo de Vida
 CineMax,https://thundernet.streampool.net/10323/live/hls/cinemax/playlist.m3u8,m3u8,,1,Películas
-Sony Movie,https://thundernet.streampool.net/10323/live/hls/sonymovies/playlist.m3u8,m3u8,,1,Películas
-Sony,https://thundernet.streampool.net/10323/live/hls/sonyhd/playlist.m3u8,m3u8,,1,Otros
-AXN,https://thundernet.streampool.net/10323/live/hls/axn/playlist.m3u8,m3u8,,1,Otros
+Sony Movie,https://thundernet.streampool.net/10323/live/hls/sonymovies/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/89/60/aa0e-8a7e-4dff-8300-ea0cbe1c30f1.png,1,Películas
+Sony,https://thundernet.streampool.net/10323/live/hls/sonyhd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/ef/6f/ef8e-fd65-4b29-a1cb-2890a559876f.png,1,Otros
+AXN,https://thundernet.streampool.net/10323/live/hls/axn/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/75/fe/4adc-22f3-4a49-a916-096a3891e1e0.png,1,Otros
 Multipremier,https://thundernet.streampool.net/10323/live/hls/multipremier/playlist.m3u8,m3u8,,1,Películas
 CineCanal,https://thundernet.streampool.net/10323/live/hls/cinecanal/playlist.m3u8,m3u8,,1,Películas
 Multicinema,https://thundernet.streampool.net/10323/live/hls/multicinema/playlist.m3u8,m3u8,,1,Películas
-Paramount,https://thundernet.streampool.net/10323/live/hls/paramount/playlist.m3u8,m3u8,,1,Películas
-TNT,https://thundernet.streampool.net/10323/live/hls/tnt/playlist.m3u8,m3u8,,1,Otros
-Warner Channel,https://thundernet.streampool.net/10323/live/hls/warnerchannel/playlist.m3u8,m3u8,,1,Películas
+Paramount,https://thundernet.streampool.net/10323/live/hls/paramount/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/a7/81/17c6-9f07-433b-91b4-59967601040e.png,1,Películas
+TNT,https://thundernet.streampool.net/10323/live/hls/tnt/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/fb/b0/a46b-3602-4189-ba92-4d31c030a0be.png,1,Otros
+Warner Channel,https://thundernet.streampool.net/10323/live/hls/warnerchannel/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/ca/9b/17f3-217b-4d67-9cdb-f3b6480b76e5.png,1,Películas
 Golden channel,https://thundernet.streampool.net/10323/live/hls/goldenchannel/playlist.m3u8,m3u8,,1,Películas
-Studio Universal,https://thundernet.streampool.net/10323/live/hls/studiouniversal/playlist.m3u8,m3u8,,1,Películas
-AMC,https://thundernet.streampool.net/10323/live/hls/amc/playlist.m3u8,m3u8,,1,Otros
-Star Channel,https://thundernet.streampool.net/10323/live/hls/starchannel/playlist.m3u8,m3u8,,1,Otros
-Space,https://thundernet.streampool.net/10323/live/hls/space/playlist.m3u8,m3u8,,1,Películas
-Golden Plus,https://thundernet.streampool.net/10323/live/hls/goldenplushd/playlist.m3u8,m3u8,,1,Películas
-Europa,https://thundernet.streampool.net/10323/live/hls/europa/playlist.m3u8,m3u8,,1,Otros
-Clover Channel,https://thundernet.streampool.net/10323/live/hls/cloverchannel/playlist.m3u8,m3u8,,1,Otros
+Studio Universal,https://thundernet.streampool.net/10323/live/hls/studiouniversal/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/5f/c8/5774-614f-4d5e-a3db-35783ef45b80.png,1,Películas
+AMC,https://thundernet.streampool.net/10323/live/hls/amc/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/52/b9/c375-af39-4452-931f-fb0af143fff6.png,1,Otros
+Star Channel,https://thundernet.streampool.net/10323/live/hls/starchannel/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/85/2a/8efe-7845-42ce-91bf-eec7af6a9b30.png,1,Otros
+Space,https://thundernet.streampool.net/10323/live/hls/space/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/d6/1e/2069-e288-4c9b-ba08-83a228c14640.png,1,Películas
+Golden Plus,https://thundernet.streampool.net/10323/live/hls/goldenplushd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/bd/e0/763f-387a-4d28-a092-72eda75a4dcc.png,1,Películas
+Europa,https://thundernet.streampool.net/10323/live/hls/europa/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/70/b8/eb9c-fa05-4017-a31e-64debe1ce384.png,1,Otros
+Clover Channel,https://thundernet.streampool.net/10323/live/hls/cloverchannel/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/cc/78/1a22-b46e-4f11-955d-6ea32208d12f.png,1,Otros
 Golden Premiere 2,https://thundernet.streampool.net/10323/live/hls/goldenpremier2/playlist.m3u8,m3u8,,1,Películas
-Universal Channel,https://thundernet.streampool.net/10323/live/hls/universalchannel/playlist.m3u8,m3u8,,1,Películas
-Golden Edge,https://thundernet.streampool.net/10323/live/hls/goldenedgehd/playlist.m3u8,m3u8,,1,Películas
-Cine Premium,https://thundernet.streampool.net/10323/live/hls/cinepremiumhd/playlist.m3u8,m3u8,,1,Películas
-Cine Familiar,https://thundernet.streampool.net/10323/live/hls/cinefamiliarhd/playlist.m3u8,m3u8,,1,Películas
-Cine Hispano,https://thundernet.streampool.net/10323/live/hls/cinehispanohd/playlist.m3u8,m3u8,,1,Películas
-A3 Series,https://thundernet.streampool.net/10323/live/hls/atresseries/playlist.m3u8,m3u8,,1,Series y Novelas
-USA,https://thundernet.streampool.net/10323/live/hls/usa/playlist.m3u8,m3u8,,1,Entretenimiento
-TNT Series,https://thundernet.streampool.net/10323/live/hls/tntseries/playlist.m3u8,m3u8,,1,Series y Novelas
-FX,https://thundernet.streampool.net/10323/live/hls/fx/playlist.m3u8,m3u8,,1,Otros
+Universal Channel,https://thundernet.streampool.net/10323/live/hls/universalchannel/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/45/31/7150-804c-406a-81e8-528ed75b85c9.png,1,Películas
+Golden Edge,https://thundernet.streampool.net/10323/live/hls/goldenedgehd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/4b/05/8160-aa1f-426b-b549-82919093e989.png,1,Películas
+Cine Premium,https://thundernet.streampool.net/10323/live/hls/cinepremiumhd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/23/03/aab5-013b-49e8-8f84-f7757797c6de.png,1,Películas
+Cine Familiar,https://thundernet.streampool.net/10323/live/hls/cinefamiliarhd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/3e/1b/d2a0-7d2c-4c94-ae94-d7b78f2113f5.png,1,Películas
+Cine Hispano,https://thundernet.streampool.net/10323/live/hls/cinehispanohd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/e0/b5/8bd9-b2f6-4fb2-968f-91abd92dff0d.png,1,Películas
+A3 Series,https://thundernet.streampool.net/10323/live/hls/atresseries/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/34/72/37ac-5513-40cf-8185-f50a6700bdb4.png,1,Series y Novelas
+USA,https://thundernet.streampool.net/10323/live/hls/usa/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/4b/1a/e10f-9e4e-4f28-a927-e9cbcc4351a0.png,1,Entretenimiento
+TNT Series,https://thundernet.streampool.net/10323/live/hls/tntseries/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/1d/30/8644-6133-4435-957c-2d06b522c52f.png,1,Series y Novelas
+FX,https://thundernet.streampool.net/10323/live/hls/fx/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/89/1c/04eb-10da-4b8a-b9e1-3bd3e354d5d7.png,1,Otros
 DHE,https://thundernet.streampool.net/10323/live/hls/dhe/playlist.m3u8,m3u8,,1,Otros
 Comdey Central,https://thundernet.streampool.net/10323/live/hls/comedycentral/playlist.m3u8,m3u8,,1,Otros
-Distrito Comedia,https://thundernet.streampool.net/10323/live/hls/distritocomedia/playlist.m3u8,m3u8,,1,Otros
-A3 Cine,https://thundernet.streampool.net/10323/live/hls/atrescine/playlist.m3u8,m3u8,,1,Películas
+Distrito Comedia,https://thundernet.streampool.net/10323/live/hls/distritocomedia/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/93/6f/3749-1122-4a0b-a6fd-f61d352a5a88.png,1,Otros
+A3 Cine,https://thundernet.streampool.net/10323/live/hls/atrescine/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/11/09/c192-4f01-481a-804f-c503d01a1c16.png,1,Películas
 De Pelicula,https://thundernet.streampool.net/10323/live/hls/depeliculahd/playlist.m3u8,m3u8,,1,Películas
-Azteca Cinema,https://thundernet.streampool.net/10323/live/hls/aztecacinema/playlist.m3u8,m3u8,,1,Películas
+Azteca Cinema,https://thundernet.streampool.net/10323/live/hls/aztecacinema/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/57/4f/a8b3-766f-4c85-858e-ec35adb84a85.png,1,Películas
 Movie Fe Tv,https://thundernet.streampool.net/10323/live/hls/moviefe/playlist.m3u8,m3u8,,1,Películas
-Investigation Discovery,https://thundernet.streampool.net/10323/live/hls/investigationdiscoveryhd/playlist.m3u8,m3u8,,1,Documentales
-Discovery Channel,https://thundernet.streampool.net/10323/live/hls/discoveryhd/playlist.m3u8,m3u8,,1,Documentales
-Animal Planet,https://thundernet.streampool.net/10323/live/hls/animalplanethd/playlist.m3u8,m3u8,,1,Documentales
-Discovery Science,https://thundernet.streampool.net/10323/live/hls/discoverysciencehd/playlist.m3u8,m3u8,,1,Documentales
-National Geographic,https://thundernet.streampool.net/10323/live/hls/nationalgeographic/playlist.m3u8,m3u8,,1,Otros
-Love Nature,https://thundernet.streampool.net/10323/live/hls/lovenature/playlist.m3u8,m3u8,,1,Documentales
-History Channel,https://thundernet.streampool.net/10323/live/hls/historychannel/playlist.m3u8,m3u8,,1,Documentales
-History 2,https://thundernet.streampool.net/10323/live/hls/history2/playlist.m3u8,m3u8,,1,Documentales
-A&E,https://thundernet.streampool.net/10323/live/hls/a&e/playlist.m3u8,m3u8,,1,Documentales
-Film & Arts,https://thundernet.streampool.net/10323/live/hls/film&arts/playlist.m3u8,m3u8,,1,Películas
-Discovery Turbo,https://thundernet.streampool.net/10323/live/hls/discoveryturbohd/playlist.m3u8,m3u8,,1,Documentales
-Garage TV,https://thundernet.streampool.net/10323/live/hls/garagetv/playlist.m3u8,m3u8,,1,Documentales
-MTV,https://thundernet.streampool.net/10323/live/hls/mtv/playlist.m3u8,m3u8,,1,Música
-HTV,https://thundernet.streampool.net/10323/live/hls/htv/playlist.m3u8,m3u8,,1,Música
+Investigation Discovery,https://thundernet.streampool.net/10323/live/hls/investigationdiscoveryhd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/4e/2f/3676-cb4f-4c28-bb61-20d2c9d873d3.png,1,Documentales
+Discovery Channel,https://thundernet.streampool.net/10323/live/hls/discoveryhd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/18/e8/c2b2-c6b3-4183-a407-2881e3e9c669.png,1,Documentales
+Animal Planet,https://thundernet.streampool.net/10323/live/hls/animalplanethd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/23/15/0b9d-24dc-494b-80a3-fb73a8c435d6.png,1,Documentales
+Discovery Science,https://thundernet.streampool.net/10323/live/hls/discoverysciencehd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/2c/5f/f02e-115b-4a18-b7ca-ccd0d441d068.png,1,Documentales
+National Geographic,https://thundernet.streampool.net/10323/live/hls/nationalgeographic/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/cc/27/aabc-d202-4722-b3ac-43f6c04bbd42.png,1,Otros
+Love Nature,https://thundernet.streampool.net/10323/live/hls/lovenature/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/89/7a/2e2b-cc49-4739-b5b0-dea6f8f5afff.png,1,Documentales
+History Channel,https://thundernet.streampool.net/10323/live/hls/historychannel/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/10/bd/ab86-5795-4339-baab-a59455a5f325.png,1,Documentales
+History 2,https://thundernet.streampool.net/10323/live/hls/history2/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/23/3c/b793-0eba-4f65-b0bb-5c7502b9c9a1.png,1,Documentales
+A&E,https://thundernet.streampool.net/10323/live/hls/a&e/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/9d/e8/b87e-82e7-4d99-b1e6-8db64a565af1.png,1,Documentales
+Film & Arts,https://thundernet.streampool.net/10323/live/hls/film&arts/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/99/4b/2f25-1209-460d-b2a6-fa2af7e3d996.png,1,Películas
+Discovery Turbo,https://thundernet.streampool.net/10323/live/hls/discoveryturbohd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/2c/38/3ce8-513d-45ba-9557-e39ce92ce9ea.png,1,Documentales
+Garage TV,https://thundernet.streampool.net/10323/live/hls/garagetv/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/48/5c/f8e3-8f7e-4ab7-947e-bca0b94bc3a2.png,1,Documentales
+MTV,https://thundernet.streampool.net/10323/live/hls/mtv/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/cc/2d/893c-321c-41a9-a3e8-bbe3af5312ce.png,1,Música
+HTV,https://thundernet.streampool.net/10323/live/hls/htv/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/ef/9b/4832-8261-4754-920f-4939433e632b.png,1,Música
 Evol TV,https://thundernet.streampool.net/10323/live/hls/evoltv/playlist.m3u8,m3u8,,1,Entretenimiento
-MiMusica Salsa,https://thundernet.streampool.net/10323/live/hls/mimusicahdsalsa/playlist.m3u8,m3u8,,1,Música
-Telehit,https://thundernet.streampool.net/10323/live/hls/telehithd/playlist.m3u8,m3u8,,1,Música
+MiMusica Salsa,https://thundernet.streampool.net/10323/live/hls/mimusicahdsalsa/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/e0/01/05c1-10f0-4c50-8e1f-76631d79a646.png,1,Música
+Telehit,https://thundernet.streampool.net/10323/live/hls/telehithd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/9d/a2/cc89-8523-4087-96aa-53a9e99b8045.png,1,Música
 TeleHit Musica,https://thundernet.streampool.net/10323/live/hls/telehitmusicahd/playlist.m3u8,m3u8,,1,Música
 TeleHit Musica Plus,https://thundernet.streampool.net/10323/live/hls/telehitmusicaplus/playlist.m3u8,m3u8,,1,Música
 MiMusicaPopular,https://thundernet.streampool.net/10323/live/hls/mimusicahdpopular/playlist.m3u8,m3u8,,1,Música
 BandaMax,https://thundernet.streampool.net/10323/live/hls/bandmaxhd/playlist.m3u8,m3u8,,1,Películas
 MiMusicaReggaeton,https://thundernet.streampool.net/10323/live/hls/mimusicahdreggaeton/playlist.m3u8,m3u8,,1,Música
-MiMusica Hits,https://thundernet.streampool.net/10323/live/hls/mimusicahdhits/playlist.m3u8,m3u8,,1,Música
+MiMusica Hits,https://thundernet.streampool.net/10323/live/hls/mimusicahdhits/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/bb/36/75f8-49df-43eb-b31f-7c993f8a62e7.png,1,Música
 Exa TV,https://thundernet.streampool.net/10323/live/hls/exa/playlist.m3u8,m3u8,,1,Música
 Show Ven,https://thundernet.streampool.net/10323/live/hls/showven/playlist.m3u8,m3u8,,1,Música
-ESPN,https://thundernet.streampool.net/10323/live/hls/espn/playlist.m3u8,m3u8,,1,Deportes
-ESPN 2,https://thundernet.streampool.net/10323/live/hls/espn2/playlist.m3u8,m3u8,,1,Deportes
-ESPN 3,https://thundernet.streampool.net/10323/live/hls/espn3hd/playlist.m3u8,m3u8,,1,Deportes
-ESPN 4,https://thundernet.streampool.net/10323/live/hls/espn4/playlist.m3u8,m3u8,,1,Deportes
-ESPN 5,https://thundernet.streampool.net/10323/live/hls/espn5/playlist.m3u8,m3u8,,1,Deportes
-ESPN 6,https://thundernet.streampool.net/10323/live/hls/espn6/playlist.m3u8,m3u8,,1,Deportes
-ESPN 7,https://thundernet.streampool.net/10323/live/hls/espn7/playlist.m3u8,m3u8,,1,Deportes
-Claro Sports,https://thundernet.streampool.net/10323/live/hls/clarosport/playlist.m3u8,m3u8,,1,Deportes
+ESPN,https://thundernet.streampool.net/10323/live/hls/espn/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/d2/c0/e019-5929-422e-81a2-58f917e1033a.png,1,Deportes
+ESPN 2,https://thundernet.streampool.net/10323/live/hls/espn2/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/28/f2/c626-60d8-4194-a551-f006c2fb9f36.png,1,Deportes
+ESPN 3,https://thundernet.streampool.net/10323/live/hls/espn3hd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/9f/30/7b11-7382-4d5e-9f10-8a00b7b0cd3d.png,1,Deportes
+ESPN 4,https://thundernet.streampool.net/10323/live/hls/espn4/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/85/5b/dcee-e9a9-4601-ae5b-8843492f5497.png,1,Deportes
+ESPN 5,https://thundernet.streampool.net/10323/live/hls/espn5/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/67/2b/1c09-d0d2-4d6b-837d-e8350279679d.png,1,Deportes
+ESPN 6,https://thundernet.streampool.net/10323/live/hls/espn6/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/0f/28/2589-0f66-46a4-aa0f-d558d2652245.png,1,Deportes
+ESPN 7,https://thundernet.streampool.net/10323/live/hls/espn7/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/1f/5b/5a64-3925-4c89-a5b7-7f244d248f3c.png,1,Deportes
+Claro Sports,https://thundernet.streampool.net/10323/live/hls/clarosport/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/9d/29/6b11-8597-4f5f-9a62-11a2e6e318c6.png,1,Deportes
 DirectvSports,https://thundernet.streampool.net/10323/live/hls/directvsports/playlist.m3u8,m3u8,,1,Deportes
 DirecTVSports 2,https://thundernet.streampool.net/10323/live/hls/directvsports2/playlist.m3u8,m3u8,,1,Deportes
 DirecTVSports+,https://thundernet.streampool.net/10323/live/hls/directvsports+/playlist.m3u8,m3u8,,1,Deportes
-Adrenalina Sports,https://thundernet.streampool.net/10323/live/hls/andrenalina/playlist.m3u8 -- Caido,m3u8,,1,Deportes
-Esports Max,https://thundernet.streampool.net/10323/live/hls/esportsmax/playlist.m3u8,m3u8,,1,Películas
+Adrenalina Sports,https://thundernet.streampool.net/10323/live/hls/andrenalina/playlist.m3u8 -- Caido,m3u8,https://pmultimedia.norago.tv/img/upload/e1/5d/2b9b-7af8-48e3-966c-3fa30817b2a7.png,1,Deportes
+Esports Max,https://thundernet.streampool.net/10323/live/hls/esportsmax/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/78/1b/9b1f-ce86-477c-a59d-80237bd6a70d.png,1,Películas
 SportsMax News,https://thundernet.streampool.net/10323/live/hls/sportsmaxnews/playlist.m3u8,m3u8,,1,Películas
-Enlace,https://thundernet.streampool.net/10323/live/hls/enlace/playlist.m3u8,m3u8,,1,Internacionales
-EWTN,https://1654596987.rsc.cdn77.org/1654596987/tracks-v1a1/mono.m3u8,m3u8,,1,Otros
+Enlace,https://thundernet.streampool.net/10323/live/hls/enlace/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/63/b1/f772-ea6b-45ac-8c36-f446a451ee67.png,1,Internacionales
+EWTN,https://1654596987.rsc.cdn77.org/1654596987/tracks-v1a1/mono.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/f9/7c/3570-efef-4572-952e-464531b0a057.png,1,Otros
 Maria Vision,https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8,m3u8,,1,Internacionales
 Cuba Vision,https://thundernet.streampool.net/10323/live/hls/cubavision/playlist.m3u8,m3u8,,1,Otros
 RT,https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8,m3u8,,1,Internacionales
 HispanoTV,https://live.presstv.ir/hls/hispantv_5_482/index.m3u8,m3u8,,1,Internacionales
 Antena3,https://thundernet.streampool.net/10323/live/hls/antena3/playlist.m3u8,m3u8,,1,Otros
-TVE,https://thundernet.streampool.net/10323/live/hls/tve/playlist.m3u8,m3u8,,1,Internacionales
+TVE,https://thundernet.streampool.net/10323/live/hls/tve/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/4e/80/188c-a7d2-4342-8f79-66d0e9ee79af.png,1,Internacionales
 24 Horas,https://thundernet.streampool.net/10323/live/hls/24h/playlist.m3u8,m3u8,,1,Otros
 Rai Italia,https://thundernet.streampool.net/10323/live/hls/raiitalia/playlist.m3u8,m3u8,,1,Internacionales
-RTPi,https://thundernet.streampool.net/10323/live/hls/rtpinternacional/playlist.m3u8,m3u8,,1,Internacionales
+RTPi,https://thundernet.streampool.net/10323/live/hls/rtpinternacional/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/5a/46/920b-d112-45b9-94c9-cfdd15716efb.png,1,Internacionales
 TV 5,https://thundernet.streampool.net/10323/live/hls/tv5/playlist.m3u8,m3u8,,1,Otros
-CGTN,https://thundernet.streampool.net/10323/live/hls/cgtn/playlist.m3u8,m3u8,,1,Internacionales
-CCTV,https://thundernet.streampool.net/10323/live/hls/cctvhd/playlist.m3u8,m3u8,,1,Internacionales
+CGTN,https://thundernet.streampool.net/10323/live/hls/cgtn/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/44/d9/3d2e-52fc-493f-bfec-ae06e5b31012.png,1,Internacionales
+CCTV,https://thundernet.streampool.net/10323/live/hls/cctvhd/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/03/67/e3aa-c408-42f2-85bf-8de481333781.png,1,Internacionales
 Aljazeera Channel,https://live-hls-web-aja-fa.getaj.net/AJA/01.m3u8  -- Canal Arabe,m3u8,,1,Internacionales
-Universal Premiere,https://thundernet.streampool.net/10323/live/hls/universalpremiere/playlist.m3u8,m3u8,,1,Películas
-Universal Cinema,https://thundernet.streampool.net/10323/live/hls/universalcinema/playlist.m3u8,m3u8,,1,Películas
-Universal Comedy,https://thundernet.streampool.net/10323/live/hls/universalcomedy/playlist.m3u8,m3u8,,1,Películas
-Universal Crime,https://thundernet.streampool.net/10323/live/hls/universalcrime/playlist.m3u8,m3u8,,1,Películas
-Universal Reality,https://thundernet.streampool.net/10323/live/hls/universalreality/playlist.m3u8,m3u8,,1,Películas
+Universal Premiere,https://thundernet.streampool.net/10323/live/hls/universalpremiere/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/b1/6a/5bf3-0c9d-4309-9aea-f5156e7fa9f0.png,1,Películas
+Universal Cinema,https://thundernet.streampool.net/10323/live/hls/universalcinema/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/29/40/08a5-699a-4272-bf00-fffd13903c5e.png,1,Películas
+Universal Comedy,https://thundernet.streampool.net/10323/live/hls/universalcomedy/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/30/2c/0658-ce8a-4df4-ac51-4c996b190745.png,1,Películas
+Universal Crime,https://thundernet.streampool.net/10323/live/hls/universalcrime/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/6b/f4/d405-9696-4283-b5f8-1b67261e9139.png,1,Películas
+Universal Reality,https://thundernet.streampool.net/10323/live/hls/universalreality/playlist.m3u8,m3u8,https://pmultimedia.norago.tv/img/upload/0f/6d/508e-bed2-4a38-bff2-5018543dc1bd.png,1,Películas
 HBO,https://thundernet.streampool.net/10323/live/hls/hbo/playlist.m3u8,m3u8,,1,Películas
 HBO2,https://thundernet.streampool.net/10323/live/hls/hbo/playlist.m3u8,m3u8,,1,Películas
 HBO Family,https://thundernet.streampool.net/10323/live/hls/hbofamily/playlist.m3u8,m3u8,,1,Películas
