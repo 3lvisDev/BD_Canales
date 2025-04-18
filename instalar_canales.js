@@ -4,7 +4,7 @@ import mysql from 'mysql2/promise';
 
 const DB_CONFIG = {
   host: 'localhost',
-  user: 'root',
+  user: 'iptv-user',
   password: 'S3cureP@ssw0rd', // Cambia esto por tu contraseña real si es distinta
   database: 'iptv_db',
 };
