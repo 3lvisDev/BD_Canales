@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cam_01",
+    "nombre": "Entrada Principal Oficina",
+    "url": "rtsp://admin:password123@192.168.1.101:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "cam_02",
+    "nombre": "Almacen Puerta Trasera",
+    "url": "rtsp://admin:password123@192.168.1.102:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "cam_03",
+    "nombre": "Pasillo Este",
+    "url": "rtsp://admin:password123@192.168.1.103:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "cam_04",
+    "nombre": "Estacionamiento Norte",
+    "url": "rtsp://user:HikV12345@192.168.1.104:554/Streaming/Channels/101"
+  }
+]
