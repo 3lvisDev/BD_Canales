@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+opencv-python
+
+# Opcional para detección con cvlib (CPU):
+# cvlib
+# tensorflow
+
+# Nota: Si se descomenta cvlib y tensorflow, el usuario debe instalarlos.
+# pip install -r requirements.txt
+# O individualmente:
+# pip install fastapi uvicorn opencv-python cvlib tensorflow
